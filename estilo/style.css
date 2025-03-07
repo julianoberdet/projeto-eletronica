@@ -88,6 +88,7 @@ main h2{
 main p.imagem{
     background-image: url(imagens/imagem4.jpg);
     color: black;
+    text-align: justify;
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
